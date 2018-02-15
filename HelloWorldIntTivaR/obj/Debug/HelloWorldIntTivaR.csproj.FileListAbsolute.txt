@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Introduction\HelloWorldIntTivaR\HelloWorldIntTivaR\bin\Debug\HelloWorldIntTivaR.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Introduction\HelloWorldIntTivaR\HelloWorldIntTivaR\bin\Debug\HelloWorldIntTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Introduction\HelloWorldIntTivaR\HelloWorldIntTivaR\bin\Debug\HelloWorldIntTivaR.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Introduction\HelloWorldIntTivaR\HelloWorldIntTivaR\obj\Debug\HelloWorldIntTivaR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Introduction\HelloWorldIntTivaR\HelloWorldIntTivaR\obj\Debug\HelloWorldIntTivaR.frmHelloWorldInt.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Introduction\HelloWorldIntTivaR\HelloWorldIntTivaR\obj\Debug\HelloWorldIntTivaR.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Introduction\HelloWorldIntTivaR\HelloWorldIntTivaR\obj\Debug\HelloWorldIntTivaR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Introduction\HelloWorldIntTivaR\HelloWorldIntTivaR\obj\Debug\HelloWorldIntTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Introduction\HelloWorldIntTivaR\HelloWorldIntTivaR\obj\Debug\HelloWorldIntTivaR.pdb
